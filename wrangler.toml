@@ -30,6 +30,6 @@ new_sqlite_classes = ["SSHSessionDO"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "edgessh-accounts"
-database_id = "2c1b7a95-a5d6-4a72-a8d2-4132b74aa268"
+database_name = "edgessh-db"
+database_id = "10dad6d3-8e11-4c5b-841f-cb72520b11d7"
 migrations_dir = "migrations"
